@@ -25,7 +25,7 @@
     },
     "repoUrl": {
       "type": "string",
-      "defaultValue": "https://github.com/Azure-Samples/dotnetcore-sqldb-tutorial"
+      "defaultValue": "https://github.com/Mukthiyar-Syed/MyFirstAzureWebApp"
     },
     "branch": {
       "type": "string",
