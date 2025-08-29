@@ -76,7 +76,8 @@
       "properties": {
         "repoUrl": "[parameters('repoUrl')]",
         "branch": "[parameters('branch')]",
-        "isManualIntegration": true
+        "isManualIntegration": true,
+        "deploymentRollbackEnabled": false
       }
     }
   ],
