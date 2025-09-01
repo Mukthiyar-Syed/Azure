@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "demo-arm-web-app-29"
+      "value": "demo-arm-web-app-0109"
     },
     "location": {
       "value": "Canada Central"
